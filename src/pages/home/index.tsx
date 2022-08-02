@@ -89,7 +89,7 @@ export const Home = (): JSX.Element => {
                 Meus projetos
               </Text>
               <Text as="p" type="body1" color="grey2">
-                Projeco criado na{" "}
+                Projetos criado na{" "}
                 <Text as="span" color="brand5">
                   Kenzie Academy
                 </Text>
