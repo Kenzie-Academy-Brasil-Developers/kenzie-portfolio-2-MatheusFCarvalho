@@ -58,6 +58,7 @@ export const Home = (): JSX.Element => {
               projetos
             </Text>
             <Text type="body1" color="grey2">
+              Desde criança  gostava de matemática e raciocínio lógico,  durante o ensino médio conheci a lógica de programação básica, o suficiente para criar quiz e mini-joguinhos, mas comecei a me aprofundar em desenvolvimento web no início de 2022, com a kenzie. Escola que me ajudou a desenvolver uma rotina de estudos sólida, além da capacidade de aprender sozinho em determinados temas de interesse.
               Aqui em baixo estão minhas tecnologias que desenvolvi ao longo da kenzie.
             </Text>
             <HeaderButtonsArea>
